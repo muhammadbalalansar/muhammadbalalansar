@@ -15,7 +15,7 @@
 - ⚡ **Fun fact:** I love finding bugs and building new tech!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.bilalansar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadbalalansar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bilaltechpro0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balalansar0@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/muhammadbilalansar1?srtk=Y3h3MWRpd2wxYTFs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadbalalansar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bilaltechpro0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balalansar0@gmail.com) 
 
 <!-- Snake Game Repo View -->
 <div align="center">
