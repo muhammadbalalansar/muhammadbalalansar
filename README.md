@@ -10,7 +10,7 @@
 - 🤔 **Need help with:** Improving my scanning logic and smart contracts.
 - 💬 **Ask me about:** Cyber Security, Ethical Hacking, and Coding.
 - 📫 **Reach me at:** balalansar0@gmail.com
-- https://muhammadbalalansar.com/
+https://muhammadbalalansar.com/
 - 😄 **Call me:** Bilal
 - ⚡ **Fun fact:** I love finding bugs and building new tech!
 
