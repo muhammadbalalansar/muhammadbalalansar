@@ -1,6 +1,6 @@
 ## 💫 Hi 👋, I'm Muhammad Balal Ansar
 
-**Cyber Security Student | Developer | Tech Enthusiast**
+**Cyber Security & Digital Forensics | CEH | CCEP | CLLMSE | Penetration Testing | Web Application Security | Red Teamer | Advance Forensics | MERN Stack Developer**
 
 📧 **Email:** balalansar0@gmail.com
 
