@@ -11,7 +11,7 @@
 - 💬 **Ask me about:** Cyber Security, Ethical Hacking, and Coding.
 - 📫 **Reach me at:** balalansar0@gmail.com
 - https://muhammadbalalansar.com/
-- 😄 **Call me:** Balal
+- 😄 **Call me:** Bilal
 - ⚡ **Fun fact:** I love finding bugs and building new tech!
 
 ## 🌐 Socials:
