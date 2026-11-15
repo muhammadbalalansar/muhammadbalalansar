@@ -4,7 +4,7 @@
 
 📧 **Email:** balalansar0@gmail.com
 
-- 🔭 **Working on:** CVE-HUNTER (an automated security scanning tool).
+- 🔭 **Author:** CVE-Hunter-SploitScan (an automated security scanning tool).
 - 🌱 **Learning:** Cloud Security & Advanced Linux.
 - 👯 **Collaborate on:** Security tools or MERN stack projects.
 - 🤔 **Need help with:** Improving my scanning logic and smart contracts.
